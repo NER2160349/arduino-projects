@@ -1,0 +1,18 @@
+# 03 - Using Digital Inputs to Control LEDs
+
+# Description
+This project has two parts:
+
+1. A basic on/off button to control an LED.
+
+2. An extension with four buttons, each controlling the LED brightness at different levels — high, medium, low, and off. This project builds on the concepts learned in Project 02.
+
+# Circuit
+- Green LED connected through a 220 Ω resistor to pin ~5 (PWM-enabled pin).
+
+Four buttons connected to digital input pins, each corresponding to a brightness level: High (255), Medium (110), Low (50), Off (0).
+
+# What I Learned
+- How to use INPUT_PULLUP mode for buttons and how it changes the logic in conditions.
+- How to extend previous code by adding multiple inputs with different functionalities.
+- Better understanding of the difference between analogWrite() and digitalWrite() functions.
