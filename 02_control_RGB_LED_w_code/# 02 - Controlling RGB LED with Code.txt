@@ -1,0 +1,19 @@
+# 02 - Controlling RGB LED with Code
+
+# Description
+This Arduino project controls an RGB LED using code in the Arduino IDE. It demonstrates how to mix colors by adjusting the brightness of the red, green, and blue channels.
+
+# Circuit
+- Common cathode RGB LED
+- Red → Pin ~6 (via 220Ω resistor)
+- Green → Pin ~5 (via 220Ω resistor)
+- Blue → Pin ~3 (via 220Ω resistor)
+- All resistors connected in series with the LED channels
+- Common cathode connected to GND
+
+# What I Learned
+- How to use `analogWrite()` to control LED brightness with PWM
+- Mapping RGB values to create custom colors
+- Practiced C++ logic in Arduino
+
+
