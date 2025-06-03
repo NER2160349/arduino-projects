@@ -1,0 +1,20 @@
+# 01 - Controlling LED Brightness with Resistors
+
+## Description
+Explored how different resistor values (220Ω, 1kΩ, 10kΩ) affect LED brightness. The image below shows a jumper wire connected to a 220Ω resistor. Powered the Elegoo Uno with a 9V battery for mobility.
+
+## Circuit
+- Connected 5V to the red rail (+) and GND to the blue rail (-)
+- LED’s **cathode** (short leg) connected to GND rail
+- LED’s **anode** (long leg) connected to a jumper wire
+- Jumper wire plugged into one of three resistors (220Ω, 1kΩ, 10kΩ), each connecting to the 5V rail
+- Swapping which resistor the jumper touches changes the LED brightness
+
+
+## What I Learned
+- How resistors control the amount of current flowing through an LED
+- Lower resistance (e.g., 220Ω) allows more current, making the LED brighter
+- Higher resistance (e.g., 10kΩ) reduces current, making the LED dimmer
+- How to build a simple circuit on a breadboard and power it using a 9V battery connected to the Arduino
+- How to identify LED polarity (anode = long leg, cathode = short leg) and ensure correct current direction
+
