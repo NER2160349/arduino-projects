@@ -1,0 +1,13 @@
+# 05 - Motion-Activated Tilt Switch Uno Alarm
+
+# Description
+This project combines what I learned with the active buzzer, LED control, and introduces a tilt switch to simulate a theft alarm for my Elegoo.
+# Circuit
+- Tilt switch: GND and digital pin ~10
+- Active buzzer: GND and  digital pin ~9
+- LED: GND → 220Ω resistor → pin 8
+
+# What I Learned
+- How to combine previous lessons
+- How a tilt switch detects movement
+- How to connect and control all three components simultaneously
