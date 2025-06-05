@@ -1,0 +1,19 @@
+# 06 - Controlling Servos with Uno & Code
+
+# Description
+This project has three parts:
+
+1. Servo Sweep – Sweeps the servo from 0° to 180° with a 1s delay.
+
+2. Servo Degrees – Moves the servo to specific angles: 0°, 45°, 90°, 135°, 180°, each with a 1s delay.
+
+3. Servo + LED Degrees – Adds an LED that blinks each time the servo moves to a new angle.
+
+# Circuit
+- Servo: GND, 5V, signal to ~9 (PWM pin).
+- LED (Part 3): Long leg to pin 13 through 220Ω resistor, short leg to GND.
+Servo GND is routed through the breadboard and connected to Arduino GND using a jumper wire.
+
+# What I Learned
+- How to control servo motion through code.
+- How to integrate LED behavior with servo logic.
