@@ -9,8 +9,8 @@ This project has two parts:
 
 
 # Circuit
-- Active buzzer: GND and PWM pin ~5.
-- Passive buzzer: GND and PWM pin ~5.
+- Active buzzer: GND and digital pin ~5.
+- Passive buzzer: GND and digital pin ~5.
 
 # What I Learned
 - The difference between active and passive buzzers.
