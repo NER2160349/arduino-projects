@@ -8,7 +8,7 @@ Welcome to my collection of Arduino projects. Each folder contains the source co
 | 02 | Controlling RGD LED with Code           | 02_control_RGB_LED_w_code  | [Link](02_control_RGB_LED_w_code)   |
 | 03 | Using Digital Inputs to Control LED's    | 03_use_digital_input_control_pin   | [Link](03_use_digital_input_control_pin) |
 | 04 | Active & Passive Buzzers |   04_active_passive_buzzers    | [Link](04_active_passive_buzzers)|
-| 05 | Motion-Activated Tilt Switch Uno Alarm   | ... |(./05_name/README.md)  |
+| 05 | Motion-Activated Tilt Switch Uno Alarm   | 05_tilt_switch |[Link](05_tilt_switch)  |
 
 
 # Goals
