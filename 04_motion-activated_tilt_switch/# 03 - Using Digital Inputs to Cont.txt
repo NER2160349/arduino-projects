@@ -1,0 +1,20 @@
+# 04 - Motion Activated Tilt Switch Uno Alarm
+
+# Description
+This project has three parts:
+
+1. Basic ON/OFF active buzzer.
+
+2. Timed ON/OFF passive buzzer.
+
+3. Ambulance-style alarm using passive buzzer.
+
+
+
+# Circuit
+- Active buzzer: GND and digital pin 3.
+- Passive buzzer: GND and PWM pin ~5.
+
+# What I Learned
+- The difference between active and passive buzzers.
+- How to create different sounds using a passive buzzer.
