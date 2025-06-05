@@ -9,8 +9,7 @@ This project has two parts:
 
 # Circuit
 - Green LED connected through a 220 Ω resistor to pin ~5 (PWM-enabled pin).
-
-Four buttons connected to digital input pins, each corresponding to a brightness level: High (255), Medium (110), Low (50), Off (0).
+- Four buttons connected to digital input pins, each corresponding to a brightness level: High (255), Medium (110), Low (50), Off (0).
 
 # What I Learned
 - How to use INPUT_PULLUP mode for buttons and how it changes the logic in conditions.
