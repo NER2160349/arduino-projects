@@ -1,0 +1,20 @@
+# 07 - Using the HC-SR04 Ultrasonic Sensor
+
+# Description
+This project has two parts:
+
+1. Ultrasonic basics – Reads and outputs distance data from the HC-SR04 ultrasonic sensor to the Serial Monitor. The closer the object is to the sensor, the smaller the distance value displayed.
+
+2. Ultrasonic with RGB LED – Builds on the first part by integrating an RGB LED. The LED changes color based on the distance of an object detected by the sensor.
+
+# Circuit
+- Ultrasonic sensor:
+ VCC → 5V, GND → GND, Trig → Pin ~11, Echo → Pin 12.
+
+- RGB LED: Red → Pin ~6, Green → Pin ~9, Blue → Pin ~10, Each color pin is connected through a 220Ω resistor to ground.
+
+# What I Learned
+- How to read and interpret distance data using an ultrasonic sensor.
+- How to control an RGB LED and change its color based on sensor input.
+- How to integrate sensors and outputs to create responsive interactions.
+
