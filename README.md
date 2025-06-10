@@ -11,8 +11,8 @@ Welcome to my collection of Arduino projects. Each folder contains the source co
 | 05 | Motion-Activated Tilt Switch Uno Alarm   | 05_tilt_switch |[Link](05_tilt_switch)  |
 | 06 | Controlling Servos  | 06_controlling_servos |[Link](06_controlling_servos)  |
 | 07 | Using the HC-SR04 Ultra Sonic Sensor   | 07_HC-SR04_ultrasonic_sensor | [Link](07_HC-SR04_ultrasonic_sensor) |
-| 08 | Using the DHT11 Humidity & Temperature Sensor |  Project Name   | [Link]|
-| 09 | Infrared Remote and Sensor  | Project Name |[Link] |
+| 08 | Using the DHT11 Humidity & Temperature Sensor |  Project Name   | [Link](08_DHT11_humidity_temp_sensor)|
+| 09 | Infrared Remote and Sensor  | 08_DHT11_humidity_temp_sensor |[Link] |
 | 10 | LCD Screen | Project Name |[Link] |
 | 10 |  🌟 Logic Gate Visualizer | Project Name |[Link] |
 
