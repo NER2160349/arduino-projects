@@ -1,0 +1,15 @@
+# 08 - Using the DHT11 Humidity & Temperature Sensor
+
+# Description
+This program reads humidity and temperature data from a DHT11 sensor and displays the values on the Serial Monitor.
+
+
+# Circuit
+- DHT11 data pin connected to Arduino digital pin 2
+- VCC connected to 5V power
+- GND connected to Ground
+
+# What I Learned
+- How to interface and set up the DHT11 sensor in Arduino code
+- How to read humidity and temperature values from the sensor
+- How to display sensor readings on the Serial Monitor
