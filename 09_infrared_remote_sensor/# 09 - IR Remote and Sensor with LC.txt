@@ -1,0 +1,31 @@
+# 09 - IR Remote and Sensor with LCD screen
+
+# Description
+This project combines an IR remote and sensor with an LCD screen to display the button pressed. I started with the basic functionality of decoding IR signals and outputting them to the Serial Monitor. Then, I extended the project by integrating an LCD display to show the button labels visually—combining two previously learned concepts into one.
+
+
+# Circuit
+- IR Receiver: 
+* Signal pin connected to digital pin 6 on the Arduino
+* Connected to 5V and GND
+- Red LED
+* Connected to digital pin 13
+- LCD (16x2)
+* RS → pin 7
+* EN → pin 8
+* D4 → pin 9
+* D5 → pin 10
+* D6 → pin 11
+* D7 → pin 12
+* VSS and RW → GND
+* VCC → 5V
+* VO (contrast) → middle pin of a potentiometer
+* Potentiometer ends connected to 5V and GND
+
+All components share a common ground and 5V power rail from the Arduino.
+
+# What I Learned
+- How to decode IR signals using a switch-case structure.
+- How to adapt serial output logic to display readable messages on an LCD screen.
+- How to combine two subsystems (IR and LCD) into one cohesive project.
+
