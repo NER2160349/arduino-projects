@@ -1,0 +1,32 @@
+# 10 - LCD Screen with buttons and RGB LED
+
+# Description
+This project uses an LCD screen to display outputs based on button inputs, which also control an RGB LED.
+
+# Circuit
+- LCD Screen:
+ * RS pin to digital pin 7
+ * Enable pin to digital pin 8
+ * D4 pin to digital pin 9
+ * D5 pin to digital pin 10
+ * D6 pin to digital pin 11
+ * D7 pin to digital pin 12
+ * R/W pin to GND
+ * VSS pin to GND
+ * VCC pin to 5V
+ * VO (pin 3) → middle of a 10K potentiometer, with the other ends connected to GND and 5V
+
+- Buttons: Each button is connected between GND and digital pins 2, 3, 4, 5, and 13.
+
+- RGB LED: 
+* Red → pin 6 via 220Ω resistor
+* Green → A1 via 220Ω resistor
+* Blue → A2 via 220Ω resistor
+* Common cathode (longest leg) → GND
+
+# What I Learned
+- How to wire and program an LCD screen to display messages.
+- How to read button inputs and incorporate them into interactive logic.
+- What a potentiometer is and how it controls LCD contrast.
+- How to debug using the Serial Monitor.
+- How to control an RGB LED with digital outputs.
