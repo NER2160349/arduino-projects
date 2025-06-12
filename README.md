@@ -14,7 +14,7 @@ Welcome to my collection of Arduino projects. Each folder contains the source co
 | 08 | Using the DHT11 Humidity & Temperature Sensor | 08_DHT11_humidity_temp_sensor   | [Link](08_DHT11_humidity_temp_sensor)|
 | 09 | Infrared Remote and Sensor  | 09_infrared_remote_sensor |[Link](09_infrared_remote_sensor) |
 | 10 | LCD Screen | 10_LCD_button_RGB |[Link](10_LCD_screen/LCD_button_RGB) |
-| 10 |  🌟 Logic Gate Visualizer | Project Name |[Link] |
+| 10 |  🌟 Logic Gate Visualizer | logic_gate_visualizer/LCD_button_RGB |[Link](logic_gate_visualizer/logic_lcd_LED) |
 
 # Goals
 Apply what I learn through hands-on builds.
